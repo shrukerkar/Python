@@ -1,6 +1,7 @@
 import random
 
 
+# function random_kid works on bayesTheorem
 def random_kid():
     return random.choice(["boy","girl"])
 both_girls=0
